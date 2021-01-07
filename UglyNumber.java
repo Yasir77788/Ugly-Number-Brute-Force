@@ -1,5 +1,4 @@
 // An ugly number is a number whose only prime factors are 2, 3 or 5
-
 public class UglyNumber
 {
 	public static void main(String[] args)
