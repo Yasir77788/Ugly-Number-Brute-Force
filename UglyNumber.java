@@ -8,6 +8,7 @@ public class UglyNumber
 		
 	}
 	
+	// method to check and return if the nth number is an ugly number
 	public static boolean isUglyNum(int n)
 	{
 		if (n == 1) 
