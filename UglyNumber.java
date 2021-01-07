@@ -35,9 +35,6 @@ public class UglyNumber
 		if (n == 1)
 			return true;
 		else
-			return false;
-		
-		
-		
+			return false;	
 	}
 }
